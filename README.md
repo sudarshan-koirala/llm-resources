@@ -2,7 +2,10 @@
 
 - To be clear, this is not a roadmap for `getting started` with LLMs.
 - I am not covering the books you should study, university studies, certificates, etc.
-- I assume you have basic understanding of NLP stuffs, programming knowledge ( mainly Python ).
+- I assume you have basic understanding of NLP stuffs, programming knowledge ( mainly Python and Maths ).
+  - You might argue, why Maths as everything is automated. Well, well, behind the scene, almost everything is Maths 🧠 )
+  - Calculus, Probability, Linear Algebra
+  - You need to know, Lets say what is matrix, how dot product works, etc etc.
 - These are some of the resources which I suggest you to get started.
 - After knowing the basics and how things work, it's upon you, what to do ( Or lets say if it's your cup of tea / coffee or not )
 > Remember one thing, using LLMs and implementing are two different things, you need not necessary know how to implement, but you need to know how to use it in right way.
@@ -14,6 +17,7 @@
 ---
 
 ## Free Courses
+- [fast.ai courses](https://www.fast.ai/) --> `Optional but highly recommended`
 - [DeepLearning.AI short courses](https://www.deeplearning.ai/short-courses/) -- My request, try to complete all this free short courses.
 - [DeepLearning.AI Specializations](https://www.deeplearning.ai/courses/)
 ---
