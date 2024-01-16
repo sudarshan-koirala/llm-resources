@@ -50,7 +50,7 @@
 > Main thing I want to highlight, practice practice and practice, take help with AI assistants 👇
  
 # AI Assistants ( Remember, personal use or enterprise use )
-- [Perplexity AI](https://www.perplexity.ai/) --> let's put this way, it's Google Search with LLMs with it.
+- [Perplexity AI](https://perplexity.ai/pro?referral_code=YAWB6JNV) --> let's put this way, it's Google Search with LLMs with it.
 - [ChatGPT](https://chat.openai.com/) --> Based on your need, free or paid version. ( Team, Enterprise , etc)
 - [Bing Chat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) , Bing Enterprise.
 
