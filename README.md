@@ -14,6 +14,7 @@
 - [A Hacker's Guide to Language Models](https://youtu.be/jkrNMKz9pWU?si=-PLRJrXB80E27Q_m) by Jeremy Howard.
 - [[1hr Talk] Intro to Large Language Models](https://youtu.be/zjkBMFhNj_g?si=hw-BLphS85ORXL7i) by Andrej Karpathy.
 - [Neural Networks: Zero to Hero](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&si=eTu3ESyFvq7JFdPD) by Andrej Karpathy.
+- [Building RAG from scratch Using Python, LangChain and OpenAI API](https://youtu.be/BrsocJb-fAo?si=13-fYpjIBp9rmdhw) by Santiago.
 ---
 
 ## Free Courses
