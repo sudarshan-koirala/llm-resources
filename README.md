@@ -39,8 +39,8 @@
   - [All you need to know about LlamaIndex](https://youtu.be/FbQowFipEP4?si=GIZI73RzJZy1B_cj)
 ---
 
-## Google, Microsoft and AWS has their own courses ( you can pick the one where you want to start)
-## OpenAI has really good [documentation](https://platform.openai.com/docs/introduction) and [Cookbook](https://cookbook.openai.com/)
+### Google, Microsoft and AWS has their own courses ( you can pick the one where you want to start)
+### OpenAI has really good [documentation](https://platform.openai.com/docs/introduction) and [Cookbook](https://cookbook.openai.com/)
 
 ## Youtube ( Free University )
 - There is unlimited knoweledge you can grasp, try to find the best ones and follow them instead of jumping among videos.
@@ -75,4 +75,6 @@
 - [Optimizing RAG with Hybrid Search & Reranking](https://superlinked.com/vectorhub/optimizing-rag-with-hybrid-search-and-reranking)
 - [Improving RAG performance with Knowledge Graphs](https://superlinked.com/vectorhub/improving-rag-performance-with-knowledge-graphs)
 - [Enhancing RAG with a Multi-Agent System](https://superlinked.com/vectorhub/enhancing-rag-with-a-multi-agent-system)
+
+-----
 > This page will be updated over time. Cheers !!
