@@ -1,5 +1,7 @@
 # Resources to get started with Large Language Models (LLMs)
 
+### [My Youtube Channel](https://www.youtube.com/@datasciencebasics)
+
 - To be clear, this is not a roadmap for `getting started` with LLMs.
 - I am not covering the books you should study, university studies, certificates, etc.
 - I assume you have basic understanding of NLP stuffs, programming knowledge ( mainly Python and Maths ).
@@ -50,11 +52,27 @@
 
 > Main thing I want to highlight, practice practice and practice, take help with AI assistants 👇
  
-# AI Assistants ( Remember, personal use or enterprise use )
+## AI Assistants ( Remember, personal use or enterprise use )
 - [Perplexity AI](https://perplexity.ai/pro?referral_code=YAWB6JNV) --> let's put this way, it's Google Search with LLMs with it.
 - [ChatGPT](https://chat.openai.com/) --> Based on your need, free or paid version. ( Team, Enterprise , etc)
 - [Bing Chat](https://www.bing.com/search?q=Bing+AI&showconv=1&FORM=hpcodx) , Bing Enterprise.
 - [Hugging Chat](https://huggingface.co/chat/)
+- [Le Chat Mistral](https://chat.mistral.ai)
 
 ---
+
+## Make RAG work properly
+- First, think on tweeking basic stuffs
+    - Cleaning document ( choose right parsing , eg. LlamaParse, Unstructured )
+    - Better Chunking strategies
+    - Choosing right embedings model
+    - Choosing right Vectorstore
+    - Passing parsing Instructions, Reranking
+    - Choosing right Large Language Models
+
+- [Chunking Strategies for LLM Applications](https://www.pinecone.io/learn/chunking-strategies/)      
+- [12 RAG Pain Points and Proposed Solutions](https://towardsdatascience.com/12-rag-pain-points-and-proposed-solutions-43709939a28c)
+- [Optimizing RAG with Hybrid Search & Reranking](https://superlinked.com/vectorhub/optimizing-rag-with-hybrid-search-and-reranking)
+- [Improving RAG performance with Knowledge Graphs](https://superlinked.com/vectorhub/improving-rag-performance-with-knowledge-graphs)
+- [Enhancing RAG with a Multi-Agent System](https://superlinked.com/vectorhub/enhancing-rag-with-a-multi-agent-system)
 > This page will be updated over time. Cheers !!
