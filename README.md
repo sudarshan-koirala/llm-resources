@@ -76,6 +76,7 @@ Links to follow for better understanding.
 - [Chunk visualizer](https://huggingface.co/spaces/m-ric/chunk_visualizer)
 - [Tokenizer, from OpenAI](https://platform.openai.com/tokenizer)
 - [Huggingface Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
+- [What is a Vector Database & How Does it Work? Use Cases + Examples](https://www.pinecone.io/learn/vector-database/)
 - [Chunking Strategies for LLM Applications](https://www.pinecone.io/learn/chunking-strategies/)
 - [🤗 Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
 - [🏆 LMSYS Chatbot Arena Leaderboard](https://chat.lmsys.org/)
