@@ -70,8 +70,15 @@
     - Choosing right Vectorstore
     - Passing parsing Instructions, Reranking
     - Choosing right Large Language Models
+ 
+Links to follow for better understanding.
 
-- [Chunking Strategies for LLM Applications](https://www.pinecone.io/learn/chunking-strategies/)      
+- [Chunk visualizer](https://huggingface.co/spaces/m-ric/chunk_visualizer)
+- [Tokenizer, from OpenAI](https://platform.openai.com/tokenizer)
+- [Huggingface Massive Text Embedding Benchmark (MTEB) Leaderboard](https://huggingface.co/spaces/mteb/leaderboard)
+- [Chunking Strategies for LLM Applications](https://www.pinecone.io/learn/chunking-strategies/)
+- [🤗 Open LLM Leaderboard](https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard)
+- [🏆 LMSYS Chatbot Arena Leaderboard](https://chat.lmsys.org/)
 - [12 RAG Pain Points and Proposed Solutions](https://towardsdatascience.com/12-rag-pain-points-and-proposed-solutions-43709939a28c)
 - [Optimizing RAG with Hybrid Search & Reranking](https://superlinked.com/vectorhub/optimizing-rag-with-hybrid-search-and-reranking)
 - [Improving RAG performance with Knowledge Graphs](https://superlinked.com/vectorhub/improving-rag-performance-with-knowledge-graphs)
