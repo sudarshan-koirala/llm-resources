@@ -66,7 +66,7 @@
 - First, think on tweeking basic stuffs
     - Cleaning document ( choose right parsing , eg. LlamaParse, Unstructured )
     - Better Chunking strategies
-    - Choosing right embedings model
+    - Choosing right embeddings model
     - Choosing right Vectorstore
     - Passing parsing Instructions, Reranking
     - Choosing right Large Language Models
