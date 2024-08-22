@@ -90,7 +90,7 @@ Links to follow for better understanding.
 ## Important Links Updated ( 22 August 2024 )
 - [Llama-3-Groq-Tool-Use Models](https://wow.groq.com/introducing-llama-3-groq-tool-use-models/)
 - [Berkeley Funciton Calling Leaderboard](https://gorilla.cs.berkeley.edu/leaderboard.html#leaderboard)
-- [Independent analysis of AI models and API providers](https://artificialanalysis.ai/)
+- [Independent analysis of AI models and API providers](https://artificialanalysis.ai/) :pushpin:
 
 ----
 > This page will be updated over time. Cheers !!
