@@ -93,4 +93,8 @@ Links to follow for better understanding.
 - [Independent analysis of AI models and API providers](https://artificialanalysis.ai/) :pushpin:
 
 ----
+## Important Links Updated ( 02 September 2024 )
+- [AWS Samples](https://github.com/aws-samples)
+
+----
 > This page will be updated over time. Cheers !!
