@@ -97,4 +97,7 @@ Links to follow for better understanding.
 - [AWS Samples](https://github.com/aws-samples)
 
 ----
+- [LangChain Azure Integration](https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore/)
+
+----
 > This page will be updated over time. Cheers !!
