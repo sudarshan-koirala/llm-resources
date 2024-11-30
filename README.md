@@ -99,5 +99,6 @@ Links to follow for better understanding.
 ----
 - [LangChain Azure Integration](https://devblogs.microsoft.com/azure-sql/langchain-with-sqlvectorstore/)
 - [RAG vs Agentic RAG](https://www.analyticsvidhya.com/blog/2024/11/rag-vs-agentic-rag/)
+- [Comphrensive Guide in RAG Implementation](https://newsletter.armand.so/p/comprehensive-guide-rag-implementations)
 ----
 > This page will be updated over time. Cheers !!
