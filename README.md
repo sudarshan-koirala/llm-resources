@@ -101,4 +101,9 @@ Links to follow for better understanding.
 - [RAG vs Agentic RAG](https://www.analyticsvidhya.com/blog/2024/11/rag-vs-agentic-rag/)
 - [Comphrensive Guide in RAG Implementation](https://newsletter.armand.so/p/comprehensive-guide-rag-implementations)
 ----
+
+### RAG and Agents
+- [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
+- [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents)
+  
 > This page will be updated over time. Cheers !!
