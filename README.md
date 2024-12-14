@@ -29,6 +29,7 @@
 - [Prompt Engineering Guide](https://www.promptingguide.ai/)
 - [OpenAI doc about Prompt Engineering](https://platform.openai.com/docs/guides/prompt-engineering)
 - [Strategies to harness the power of LLMs](https://towardsdatascience.com/how-i-won-singapores-gpt-4-prompt-engineering-competition-34c195a93d41)
+-[Prompt Engineering](https://github.com/NirDiamant/Prompt_Engineering) 
 - There is one from deeplearing.ai free short courses too about ChatGPT Prompt Engineering for Developers.
 - There are many courses, articles, videos about this topic, it needs constant learning and experimenting.
 ---
