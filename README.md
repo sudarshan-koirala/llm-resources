@@ -1,3 +1,5 @@
+Hello 👋, this is live-in documents, might be updated as you are reading this 😎🧠
+
 # Resources to get started with Large Language Models (LLMs)
 
 ### [My Youtube Channel](https://www.youtube.com/@datasciencebasics)
@@ -107,4 +109,4 @@ Links to follow for better understanding.
 - [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 - [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents)
   
-> This page will be updated over time. Cheers !!
+> Cheers !!
