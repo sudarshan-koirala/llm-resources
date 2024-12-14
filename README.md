@@ -1,4 +1,4 @@
-Hello 👋, this is live-in documents, might be updated as you are reading this 😎🧠
+Hello 👋, this is live-in document, might be updated as you are reading this 😎🧠
 
 # Resources to get started with Large Language Models (LLMs)
 
