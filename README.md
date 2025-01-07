@@ -108,5 +108,8 @@ Links to follow for better understanding.
 ### RAG and Agents
 - [RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques)
 - [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents)
+
+----
+- [2024-AI-Timeline](https://huggingface.co/spaces/reach-vb/2024-ai-timeline)
   
 > Cheers !!
