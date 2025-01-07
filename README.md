@@ -110,6 +110,6 @@ Links to follow for better understanding.
 - [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents)
 
 ----
-- [2024-AI-Timeline](https://huggingface.co/spaces/reach-vb/2024-ai-timeline)
+- [2024-AI-Timeline Huggingface Space](https://huggingface.co/spaces/reach-vb/2024-ai-timeline)
   
 > Cheers !!
