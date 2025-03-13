@@ -111,5 +111,10 @@ Links to follow for better understanding.
 
 ----
 - [2024-AI-Timeline Huggingface Space](https://huggingface.co/spaces/reach-vb/2024-ai-timeline)
+
+---
+### Claude
+- [Claude for Desktop](https://claude.ai/download)
+- [Claude code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
   
 > Cheers !!
