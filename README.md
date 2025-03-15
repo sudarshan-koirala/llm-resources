@@ -97,6 +97,8 @@ Links to follow for better understanding.
 
 ----
 ## Important Links Updated ( 02 September 2024 )
+### AWS
+- [Evaluating RAG applications with Amazon Bedrock knowledge base evaluation](https://aws.amazon.com/blogs/machine-learning/evaluating-rag-applications-with-amazon-bedrock-knowledge-base-evaluation/)
 - [AWS Samples](https://github.com/aws-samples)
 
 ----
