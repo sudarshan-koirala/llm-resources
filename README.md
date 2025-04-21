@@ -130,5 +130,6 @@ Links to follow for better understanding.
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)
 - [What is MCP, and Why Is Everyone Suddenly Talking About It](https://huggingface.co/blog/Kseniase/mcp)
 - [MCP server Directory](https://www.pulsemcp.com/servers)
+- [Awesome MCP Servers and Clients](https://mcp.so/)
   
 > Cheers !!
