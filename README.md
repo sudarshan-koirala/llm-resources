@@ -128,5 +128,7 @@ Links to follow for better understanding.
 - [Good blog post about Intro to MCP](https://blog.aitoolhouse.com/introduction-to-the-model-context-protocol-mcp-a-developers-guide-to-the-mcp-for-smarter-ai-assistants/)
 - [MCP Servers](https://github.com/modelcontextprotocol/servers)
 - [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)
+- [What is MCP, and Why Is Everyone Suddenly Talking About It](https://huggingface.co/blog/Kseniase/mcp)
+- [MCP server Directory](https://www.pulsemcp.com/servers)
   
 > Cheers !!
