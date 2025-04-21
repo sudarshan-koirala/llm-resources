@@ -122,5 +122,7 @@ Links to follow for better understanding.
 - [Claude for Desktop](https://claude.ai/download)
 - [Claude code](https://docs.anthropic.com/en/docs/agents-and-tools/claude-code/overview)
 - [Good blog post about Intro to MCP](https://blog.aitoolhouse.com/introduction-to-the-model-context-protocol-mcp-a-developers-guide-to-the-mcp-for-smarter-ai-assistants/)
+- [MCP Servers](https://github.com/modelcontextprotocol/servers)
+- [Awesome MCP Servers](https://github.com/punkpeye/awesome-mcp-servers)
   
 > Cheers !!
