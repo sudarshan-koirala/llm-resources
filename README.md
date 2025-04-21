@@ -116,6 +116,10 @@ Links to follow for better understanding.
 
 ---
 
+### LLM Docs
+- [Anthropic Docs](https://docs.anthropic.com/en/home)
+- [OpenAI Docs](https://platform.openai.com/docs/overview)
+
 ### Model Context Protocol
 - [All about MCP](https://modelcontextprotocol.io/introduction)
 - [MCP announcement from Claude](https://www.anthropic.com/news/model-context-protocol)
