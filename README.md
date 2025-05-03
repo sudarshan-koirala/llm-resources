@@ -131,6 +131,7 @@ Links to follow for better understanding.
 - [What is MCP, and Why Is Everyone Suddenly Talking About It](https://huggingface.co/blog/Kseniase/mcp)
 - [MCP server Directory](https://www.pulsemcp.com/servers)
 - [Awesome MCP Servers and Clients](https://mcp.so/)
+- [FastMCP](https://gofastmcp.com/getting-started/welcome)
 - [What is Model Context Protocol (MCP)? How it simplifies AI integrations compared to APIs](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/#when-are-traditional-apis-better)
   
 > Cheers !!
