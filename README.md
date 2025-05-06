@@ -134,5 +134,6 @@ Links to follow for better understanding.
 - [FastMCP](https://gofastmcp.com/getting-started/welcome)
 - [What is Model Context Protocol (MCP)? How it simplifies AI integrations compared to APIs](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/#when-are-traditional-apis-better)
 - [Open Source MCP Servers, Glama.ai](https://glama.ai/mcp/servers)
+- [MCP Inspector, Visual testing tool for MCP servers](https://github.com/modelcontextprotocol/inspector)
 > Cheers !!
 Last Updated: February 2025
