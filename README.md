@@ -135,5 +135,8 @@ Links to follow for better understanding.
 - [What is Model Context Protocol (MCP)? How it simplifies AI integrations compared to APIs](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/#when-are-traditional-apis-better)
 - [Open Source MCP Servers, Glama.ai](https://glama.ai/mcp/servers)
 - [MCP Inspector, Visual testing tool for MCP servers](https://github.com/modelcontextprotocol/inspector)
+
+### Leaked System Prompts
+- [Leaked system prompts](https://github.com/jujumilk3/leaked-system-prompts)
 > Cheers !!
 Last Updated: February 2025
