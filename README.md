@@ -1,4 +1,5 @@
 Hello 👋, this is live-in document, might be updated as you are reading this 😎🧠
+Update June 2025: Decided to create a file for each  month to organize the resources.
 
 # Resources to get started with Large Language Models (LLMs)
 
