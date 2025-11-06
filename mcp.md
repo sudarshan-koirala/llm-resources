@@ -22,3 +22,4 @@ Anthropic Courses in MCP
 - [What is Model Context Protocol (MCP)? How it simplifies AI integrations compared to APIs](https://norahsakal.com/blog/mcp-vs-api-model-context-protocol-explained/#when-are-traditional-apis-better)
 - [Open Source MCP Servers, Glama.ai](https://glama.ai/mcp/servers)
 - [MCP Inspector, Visual testing tool for MCP servers](https://github.com/modelcontextprotocol/inspector)
+- [AWS MCP server webpage](https://awslabs.github.io/mcp/)
