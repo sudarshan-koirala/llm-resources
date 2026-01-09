@@ -1,6 +1,7 @@
 # Opencode related stuffs
 
-- [Opencode website](https://opencode.ai/docs/)   
+- [Opencode website](https://opencode.ai/docs/)
+- [Oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode)   
 
 
 Global Config 👇
