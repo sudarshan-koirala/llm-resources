@@ -36,4 +36,11 @@ OR run with env variables inline
 ANTHROPIC_AUTH_TOKEN=ollama ANTHROPIC_BASE_URL=http://localhost:11434 claude --model qwen3-coder:30b
 ```
 
+**Switching back to Claude API if you intend to use**
+```
+unset ANTHROPIC_BASE_URL
+unset ANTHROPIC_AUTH_TOKEN
+
+```
+
 Happy Coding 😎
