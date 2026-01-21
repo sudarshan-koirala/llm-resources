@@ -21,6 +21,7 @@ curl http://localhost:11434
 
 ollama list
 ollama run qwen3-coder:30b
+ollama run qwen3-vl:2b # https://ollama.com/library/qwen3-vl
 
 
 ---
@@ -31,6 +32,7 @@ export ANTHROPIC_AUTH_TOKEN=ollama
 
 export ANTHROPIC_BASE_URL=http://localhost:11434
 claude --model qwen3-coder:30b
+claude --model qwen3-vl:2b
 
 OR run with env variables inline
 ANTHROPIC_AUTH_TOKEN=ollama ANTHROPIC_BASE_URL=http://localhost:11434 claude --model qwen3-coder:30b
