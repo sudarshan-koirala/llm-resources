@@ -5,6 +5,11 @@
 
 
 Global Config 👇
+```
+cd ~
+cd .config/opencode
+vim config.json
+```
 
 ```
 {
@@ -17,8 +22,8 @@ Global Config 👇
         "baseURL": "http://localhost:11434/v1"
       },
       "models": {
-        "llama3.2:latest": {
-          "name": "Llama 3"
+        "qwen3-vl:2b": {
+          "name": "Qwen 3"
         }
       }
     }
