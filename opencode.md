@@ -11,6 +11,8 @@ cd .config/opencode
 vim config.json
 ```
 
+If you use `/connect` to authorize, lets say github Copilot, for credentials, read here: https://opencode.ai/docs/providers/
+
 ```
 {
   "$schema": "https://opencode.ai/config.json",
